@@ -1,0 +1,7 @@
+p{
+   font-kerning: normal;
+}
+#nokern{
+    color:red;
+    font-kerning: none;
+}

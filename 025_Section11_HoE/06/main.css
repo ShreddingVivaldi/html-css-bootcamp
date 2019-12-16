@@ -1,0 +1,10 @@
+p{
+   font-kerning: normal;
+}
+#nokern{
+    color:red;
+    font-kerning: none;
+}
+h1{
+    text-shadow:10px 1px 3px red;
+}
